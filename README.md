@@ -19,6 +19,7 @@ switch:
     password: Password123
     
 ```
+Note: Plug must be added to your TP-Link accoount in the Kasa. I could not get a local only plug to work. You can disable the internet for you polug in your router to block it updating in future.
 
 ## Contributing
 Pull requests are welcome.
