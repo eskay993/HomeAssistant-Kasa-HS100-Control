@@ -1,7 +1,9 @@
 # Home Assistant Kasa HS100 Control
-A custom integration for home assistant to control the Kasa HS100 plugs. 99.9% of the credit goes to these lovely people below. I just hacked my way through it all to get it working for the HS100!
+A custom integration for home assistant to control Kasa HS100 plugs. THis works with the latest 1.1.0 firwamre which disables support for HA (and other 3rd party products) in the UK versions of the plug.
 
-I've tested with an HS100 for about a week and all working great. I am a novice coder (understatement!), so I can't offer a huge ammount of support or gurantee it won't melt your HA server.
+I've tested with an HS100 for about a week and all working great. I am a novice coder (understatement!), so I can't offer a huge ammount of support or gurantee it won't melt your HA.
+
+99.9% of the credit goes to these lovely people below. I just hacked my way through it all to get it working for the HS100!
 
 ## Installation
 
@@ -26,9 +28,9 @@ Pull requests are welcome.
 * Assumed support for HS110 (not tested)
 
 ## Contributors
-* [python-kasa](https://github.com/python-kasa/python-kasa)
-* [ghostseven](https://github.com/ghostseven/python-kasa)
-* [fishbigger](https://github.com/fishbigger/HomeAssistant-Tapo-P100-Control)
+* [python-kasa](https://github.com/python-kasa/python-kasa) for the awesdome code to connect to Kasa devices.
+* [ghostseven](https://github.com/ghostseven/python-kasa) for the fix to connected to the new Kasa protocol.
+* [fishbigger](https://github.com/fishbigger/HomeAssistant-Tapo-P100-Control) for the Tapo custom componenat which I adapted for this.
 
 
 ## License
