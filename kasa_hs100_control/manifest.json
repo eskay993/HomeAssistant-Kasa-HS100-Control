@@ -2,8 +2,8 @@
   "domain": "kasa_hs100_control",
   "name": "Kasa HS100 Plug Control",
   "version": "0.4.0.dev2",
-  "documentation": "https://github.com/ghostseven/python-kasa",
-  "issue_tracker": "https://github.com/ghostseven/python-kasa/issues",
+  "documentation": "https://github.com/eskay993/HomeAssistant-Kasa-HS100-Control",
+  "issue_tracker": "https://github.com/eskay993/HomeAssistant-Kasa-HS100-Control/issues",
   "dependencies": [],
   "codeowners": [],
   "requirements": []
