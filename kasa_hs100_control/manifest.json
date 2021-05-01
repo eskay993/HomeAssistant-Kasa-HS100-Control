@@ -5,6 +5,6 @@
   "documentation": "https://github.com/ghostseven/python-kasa",
   "issue_tracker": "https://github.com/ghostseven/python-kasa/issues",
   "dependencies": [],
-  "codeowners": ["@ghostseven"],
+  "codeowners": [],
   "requirements": []
 }
