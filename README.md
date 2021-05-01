@@ -23,7 +23,7 @@ switch:
 ## Contributing
 Pull requests are welcome.
 
-## Upcoming Features:
+## Supported Devices:
 * Support for HS100
 * Assumed support for HS110 (not tested)
 
