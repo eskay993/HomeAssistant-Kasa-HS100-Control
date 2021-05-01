@@ -1,38 +1,33 @@
-# Home Assistant Tapo P100 Control
-A custom integration for home assistant to control the Tapo P100 plugs
+# Home Assistant Kasa HS100 Control
+A custom integration for home assistant to control the Kasa HS100 plugs
 
 ## Installation
 
-To install the Tapo P100 integration copy the `tapo_p100_control` folder into the `custom_components` folder on your home assistant instance then these lines should be added to your `configuration.yaml` file. 
+To install the Kasa HS100 integration copy the `kasa_hs100_control` folder into the `custom_components` folder on your home assistant instance then these lines should be added to your `configuration.yaml` file. 
 
 ```yaml
 
-#P100 or P105 Plug
+#HS100 or (I thinkk) HS110 Plug
 switch:
-    platform: tapo_p100_control
-    ip_address: 192.168.x.x
-    email: email@gmail.com
+    platform: kasa_hs100_control
+    host: 192.168.x.x
+    username: email@gmail.com
     password: Password123
     
-#L510 Series Bulbs
-light:
-    platform: tapo_p100_control
-    ip_address: 192.168.x.x
-    email: email@gmail.com
-    password: Password123
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
 
 ## Upcoming Features:
-* Support for L530 Colour Bulbs
-* UI setup integration
-* Uploading to HACS
+* Support for HS100
+* Assumed support for HS110 (not tested)
 
 ## Contributors
-* [K4CZP3R](https://github.com/K4CZP3R)
-* [Extreeeme](https://github.com/Extreeeme)
+99.9% of the credit goes to these lovely people. I just hacked my through it to get it working for the HS100!
+* [python-kasa](https://github.com/python-kasa/python-kasa)
+* [ghostseven](https://github.com/ghostseven/python-kasa)
+* [fishbigger](https://github.com/fishbigger/HomeAssistant-Tapo-P100-Control)
 
 
 ## License
