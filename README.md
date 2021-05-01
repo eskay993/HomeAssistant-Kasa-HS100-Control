@@ -1,5 +1,5 @@
 # Home Assistant Kasa HS100 Control
-A custom integration for home assistant to control the Kasa HS100 plugs. 99.9% of the credit goes to these lovely people below. I just hacked my through it all to get it working for the HS100!
+A custom integration for home assistant to control the Kasa HS100 plugs. 99.9% of the credit goes to these lovely people below. I just hacked my way through it all to get it working for the HS100!
 
 I've tested with an HS100 for about a week and all working great. I am a novice coder (understatement!), so I can't offer a huge ammount of support or gurantee it won't melt your HA server.
 
