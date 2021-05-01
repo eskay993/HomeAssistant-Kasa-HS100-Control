@@ -28,9 +28,9 @@ Pull requests are welcome.
 * Assumed support for HS110 (not tested)
 
 ## Contributors
-* [python-kasa](https://github.com/python-kasa/python-kasa) for the awesdome code to connect to Kasa devices.
-* [ghostseven](https://github.com/ghostseven/python-kasa) for the fix to connected to the new Kasa protocol.
-* [fishbigger](https://github.com/fishbigger/HomeAssistant-Tapo-P100-Control) for the Tapo custom componenat which I adapted for this.
+* [python-kasa](https://github.com/python-kasa/python-kasa) for the awessome code to connect to Kasa devices.
+* [ghostseven](https://github.com/ghostseven/python-kasa) for the fix to connect to the new Kasa protocol. This is the version being used.
+* [fishbigger](https://github.com/fishbigger/HomeAssistant-Tapo-P100-Control) for the Tapo custom component which I adapted for this.
 
 
 ## License
