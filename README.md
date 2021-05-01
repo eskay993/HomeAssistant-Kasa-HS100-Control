@@ -1,9 +1,9 @@
 # Home Assistant Kasa HS100 Control
-A custom integration for home assistant to control Kasa HS100 plugs. This works with the latest 1.1.0 firwamre which disables support for HA (and other 3rd party products) in the UK versions of the plug.
+A custom integration for home assistant to control Kasa HS100 plugs. This works with the latest 1.1.0 firmware which disables support for HA (and other 3rd party products) in the UK versions of the plug.
 
 I've tested with an HS100 for about a week and all working great. I am a novice coder (understatement!), so I can't offer a huge ammount of support or gurantee it won't melt your HA.
 
-99.9% of the credit goes to the lovely people below. I just hacked my way through it all to get it working for the HS100!
+99.9% of the credit goes to the lovely people below. I just hacked my way through it all to get it working for the HS100.
 
 ## Installation
 
